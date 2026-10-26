@@ -124,7 +124,7 @@
 
 <h3>LET'S CONNECT & CREATE SOMETHING MEANINGFUL.</h3>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/muhmdfarhan">
   <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 
