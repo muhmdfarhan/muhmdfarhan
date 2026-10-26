@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=MUHAMAD%20FARHAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Farhan's profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=MUHAMAD%20FARHAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20WEB DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Farhan's profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Web+Developer+%7C+Full-Stack+Developer;System+Analysis+%26+Design;Turning+ideas+into+digital+solutions." alt="Animated introduction"/>
 
