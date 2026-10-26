@@ -130,6 +130,6 @@
 
 <br/><br/>
 
-<sub>Designed with purpose · Powered by curiosity · Built for growth</sub>
+<sub>Designed with purpose · Powered by Muhamad Farhan 2026 ·</sub>
 
 </div>
