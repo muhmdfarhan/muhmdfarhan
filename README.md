@@ -1,17 +1,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=MUHAMAD%20FARHAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20WEB DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Farhan's profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:172554,100:2563EB&height=220&section=header&text=MUHAMAD%20FARHAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=INFORMATION%20SYSTEMS%20%7C%20DEVELOPER&descAlignY=59&descSize=16&animation=fadeIn" alt="Farhan's profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Web+Developer+%7C+Full-Stack+Developer;System+Analysis+%26+Design;Turning+ideas+into+digital+solutions." alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="[https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github](https://github.com/muhmdfarhan)&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge](https://www.linkedin.com/in/mhmdfarhann/)&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -127,6 +130,6 @@
 
 <br/><br/>
 
-<sub>Designed with purpose · Powered by Muhamad Farhan ·</sub>
+<sub>Designed with purpose · Powered by curiosity · Built for growth</sub>
 
 </div>
