@@ -1,121 +1,113 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MUHAMAD%20FARHAN&fontSize=48&fontColor=ffffff&color=0:0f172a,50:1e3a5f,100:2563eb&stroke=60a5fa&strokeWidth=1&animation=fadeIn&desc=INFORMATION%20SYSTEMS%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=15&descAlignY=70" width="100%" alt="Muhamad Farhan Profile Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=5" alt=""/>
+
+<br/>
+
+# MUHAMAD FARHAN
+
+### Information Systems · Web Development · System Analysis
+
+*Engineering ideas into digital solutions.*
 
 <br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-*Turning ideas into functional, meaningful digital solutions.*
-
 </div>
 
 ---
 
-## 01 — PROFESSIONAL PROFILE
+## ABOUT
 
-I'm **Muhamad Farhan**, an Information Systems professional interested in software development, web technologies, and system analysis.
+I am an Information Systems professional with an interest in web development, software engineering, and system analysis.
 
-I enjoy understanding business needs, designing structured solutions, and developing web applications that combine functionality, usability, and maintainability.
+I approach technology with a combination of analytical thinking, structured problem-solving, and a commitment to continuous improvement. My interest lies in developing practical applications that connect technical implementation with real-world needs.
 
-My approach is centered on continuous learning, analytical thinking, and building technology that creates practical value.
-
-- **Core Interests:** Web Development, Full-Stack Development & System Analysis
-- **Development Focus:** Web Applications, Database Management & Business Process Solutions
-- **Current Direction:** Strengthening software engineering fundamentals and application architecture
-- **Professional Goal:** Contributing to innovative IT projects while growing as a developer
+I believe that good software is not only about writing code, but also about understanding problems, designing effective solutions, and creating meaningful user experiences.
 
 ---
 
-## 02 — TECHNOLOGY STACK
+## EXPERTISE & TECHNOLOGY
 
-### Languages & Web Fundamentals
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Programming Languages"/>
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react" alt="Frameworks"/>
-</p>
-
-### Database & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Development Tools"/>
-</p>
-
----
-
-## 03 — SELECTED PROJECTS
-
-### 01. Hosting Management & Billing System
-
-A web-based information system for managing hosting services, customer transactions, billing, payment verification, and administrative reporting.
-
-**Technology:** Laravel · Inertia.js · React.js · MySQL
-
-### 02. Web Application Development
-
-Web application projects focused on practical functionality, responsive interfaces, structured data management, and user-oriented workflows.
-
-**Technology:** PHP · JavaScript · HTML · CSS · MySQL
-
-### 03. Personal Developer Portfolio
-
-A professional space for presenting development projects, technical interests, and professional background.
-
-**Technology:** Laravel · PHP · HTML · CSS
-
----
-
-## 04 — GITHUB ANALYTICS
+| Area | Technologies |
+|---|---|
+| Programming | PHP, JavaScript |
+| Web Development | HTML, CSS, React.js |
+| Backend Framework | Laravel |
+| Database | MySQL |
+| Tools & Workflow | Git, GitHub, VS Code |
+| System Design | Requirements Analysis, UML, Database Design |
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Overview"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,mysql,html,css,git,github,vscode" alt="Technology Stack"/>
 
 </div>
 
 ---
 
-## 05 — PROFESSIONAL INTERESTS
+## SELECTED WORK
 
-- Software Development & Engineering
+### 01 / Hosting Management & Billing System
+
+A web-based information system for hosting service management, customer transactions, billing, payment verification, and administrative reporting.
+
+`Laravel` `Inertia.js` `React.js` `MySQL`
+
+### 02 / Web Application Development
+
+Developing web applications with a focus on structured data, responsive interfaces, practical functionality, and maintainable implementation.
+
+`PHP` `JavaScript` `HTML` `CSS` `MySQL`
+
+### 03 / Personal Portfolio
+
+A personal platform for presenting professional background, development projects, and technical interests.
+
+`Laravel` `PHP` `Web Development`
+
+---
+
+## GITHUB OVERVIEW
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" alt="GitHub Statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## PROFESSIONAL DIRECTION
+
+- Software & Web Application Development
+- Full-Stack Development
 - Information Systems Analysis and Design
-- Database Design & Management
-- Business Process Digitization
-- Continuous Learning & Technical Collaboration
+- Database Management
+- Business Process Digitalization
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+### THINK CLEARLY. BUILD INTENTIONALLY. KEEP EVOLVING.
 
-*Learn continuously. Think critically. Build with purpose.*
+*Driven by curiosity. Defined by continuous learning.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile Visitors"/>
 
 </div>
